@@ -12,6 +12,10 @@ const info = [
           name: 'vahid',
           age : 22,
           domain: 'MERN'
+     },{
+          name: 'Shafi',
+          age : 24,
+          domain: 'MERN'
      }
 ]
 
